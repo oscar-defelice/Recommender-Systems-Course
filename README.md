@@ -93,6 +93,6 @@ Meredith, Sam (10 April 2018).
 Catalina Albeanu (17 November 2016).
 ["Bursting the filter bubble after the US election: Is the media doomed to fail?"](https://www.journalism.co.uk/news/bursting-the-filter-bubble-after-the-us-election/s2/a692918/)
 
-<a id="6">[6]</a> 
+<a id="7">[7]</a> 
 Felix Gräßer, Stefanie Beckert, Denise Küster, Jochen Schmitt, Susanne Abraham, Hagen Malberg, and Sebastian Zaunseder (2017)
 ["Therapy Decision Support Based on Recommender System Methods"](https://www.hindawi.com/journals/jhe/2017/8659460/)
