@@ -9,9 +9,9 @@ I sistemi di raccomandazione (_recommender systems_ o _recommender engines_ in i
 È difficile stabilire quando quest'idea antichissima è stata trasferita all'ambito informatico, ma sappiamo che ha profondamente cambiato il nostro modo di rapportarci al mondo digitale. Basti pensare a Google, ad Amazon, Netflix, YouTube, etc., tutte queste compagnie fondano i loro successi su particolari sistemi di raccomandazione particolarmente efficienti.
 
 L'uso esteso di questi sistemi ha contribuito in modo determinante all'affermarsi del fenomeno noto come delle "_ bolle di informazione_"[[1]](#1). 
-Infatti, la sempre più massiccia presenza delle persone sui social network, e la loro tendenza ad informarsi tramite questi canali ha prodotto importanti effetti sociali e politici, come si mostra ad esempio in [[2]](https://www.theguardian.com/technology/2017/may/22/social-media-election-facebook-filter-bubbles) o [[3]](http://nymag.com/scienceofus/2016/11/how-facebook-and-the-filter-bubble-pushed-trump-to-victory.html).
+Infatti, la sempre più massiccia presenza delle persone sui social network, e la loro tendenza ad informarsi tramite questi canali ha prodotto importanti effetti sociali e politici, come si mostra ad esempio in [[2]](#2) o [[3]](#3).
 
-Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti[[4]](http://www.huffingtonpost.com/shira-lazar/algorithms-and-the-filter_b_869473.html) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html) e teorie cospiratorie [[6]](https://www.journalism.co.uk/news/bursting-the-filter-bubble-after-the-us-election/s2/a692918/).
+Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti[[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
 
 ---
 
@@ -66,7 +66,25 @@ Ho anche un [profilo github](https://github.com/oscar-defelice) dove metto i mie
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+Van Alstyne, Marshall; Brynjolfsson, Erik (March 1997).
+["Electronic Communities: Global Village or Cyberbalkans?"](http://web.mit.edu/marshall/www/papers/CyberBalkans.pdf)
 
+<a id="2">[2]</a> 
+Hern (2017).
+["How social media filter bubbles and algorithms influence the election"](https://www.theguardian.com/technology/2017/may/22/social-media-election-facebook-filter-bubbles)
+
+<a id="3">[3]</a> 
+Baer, Drake (2017).
+["The ‘Filter Bubble’ Explains Why Trump Won and You Didn’t See It Coming"](http://nymag.com/scienceofus/2016/11/how-facebook-and-the-filter-bubble-pushed-trump-to-victory.html)
+
+<a id="4">[4]</a> 
+Lazar, Shira (June 1, 2011).
+["Algorithms and the Filter Bubble Ruining Your Online Experience?"](http://www.huffingtonpost.com/shira-lazar/algorithms-and-the-filter_b_869473.html)
+
+<a id="5">[5]</a> 
+Meredith, Sam (10 April 2018).
+["Facebook-Cambridge Analytica: A timeline of the data hijacking scandal"](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
+
+<a id="6">[6]</a> 
+Catalina Albeanu (17 November 2016).
+["Bursting the filter bubble after the US election: Is the media doomed to fail?"](https://www.journalism.co.uk/news/bursting-the-filter-bubble-after-the-us-election/s2/a692918/)
