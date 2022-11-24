@@ -64,7 +64,6 @@ Ho anche un [profilo github](https://github.com/oscar-defelice) dove metto i mie
 
 ## Referenze
 
-## References
 <a id="1">[1]</a> 
 Van Alstyne, Marshall; Brynjolfsson, Erik (March 1997).
 ["Electronic Communities: Global Village or Cyberbalkans?"](http://web.mit.edu/marshall/www/papers/CyberBalkans.pdf)
