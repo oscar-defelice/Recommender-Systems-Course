@@ -1,0 +1,4 @@
+name: recommender-system-lectures
+dependencies:
+  - python=3.9
+  - tensorflow=2.9.3
