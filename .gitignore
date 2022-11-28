@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+.AppleDouble
+.Trashes
+
+# Notebook and python auxiliary files
+.ipynb_checkpoints
+__pycache__

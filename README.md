@@ -1,3 +1,5 @@
+<a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
+
 # Recommender Systems
 
 Questo è il repository del corso Recommender Systems.
@@ -70,6 +72,16 @@ Ho anche un [profilo github](https://github.com/oscar-defelice) dove metto i mie
 [![Website](https://img.shields.io/badge/oscar--defelice-oscar-orange?style=plastic&logo=netlify&logoColor=informational&link=oscar-defelice.github.io)](https://oscar-defelice.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/)
+
+## Altri corsi
+
+Qui puoi trovare i materiali di altri miei corsi su argomenti di Machine Learning.
+
+1. [Introduction to Data Science](https://oscar-defelice.github.io/DSAcademy-lectures) 🧮
+2. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
+3. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
+4. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
+5. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 👀️
 
 ## Referenze
 
