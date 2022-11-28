@@ -2,6 +2,10 @@
 
 Questo è il repository del corso Recommender Systems.
 
+<p align="center">
+  <img width="776" alt="image" src="https://user-images.githubusercontent.com/49638680/204351915-373011d3-75ac-4e21-a6df-99cd1c552f2c.png">
+</p>
+
 ## Introduzione
 
 I sistemi di raccomandazione (_recommender systems_ o _recommender engines_ in inglese) sono un insieme di algoritmi che hanno in comune l'idea di _suggerire_ ad un utente un "prodotto".
@@ -40,7 +44,7 @@ questo installera i pacchetti e le librerie necessarie al corso nelle versioni o
 Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configurato ed eseguire i notebook. Basta cliccare sul badge qui sotto per avviare l'ambiente.
 
 <p align="center">
-<a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Computer-Vision-Hands-on/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
+<a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Recommender-Systems-Course/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
 ## Indice delle lezioni
