@@ -14,7 +14,7 @@ I sistemi di raccomandazione (_recommender systems_ o _recommender engines_ in i
 
 È difficile stabilire quando quest'idea antichissima è stata trasferita all'ambito informatico, ma sappiamo che ha profondamente cambiato il nostro modo di rapportarci al mondo digitale. Basti pensare a Google, ad Amazon, Netflix, YouTube, etc., tutte queste compagnie fondano i loro successi su particolari sistemi di raccomandazione particolarmente efficienti.
 
-L'uso esteso di questi sistemi ha contribuito in modo determinante all'affermarsi del fenomeno noto come delle "_ bolle di informazione_"[[1]](#1). 
+L'uso esteso di questi sistemi ha contribuito in modo determinante all'affermarsi del fenomeno noto come delle " bolle di informazione"[[1]](#1).
 Infatti, la sempre più massiccia presenza delle persone sui social network, e la loro tendenza ad informarsi tramite questi canali ha prodotto importanti effetti sociali e politici, come si mostra ad esempio in [[2]](#2) o [[3]](#3).
 
 Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti[[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
