@@ -17,12 +17,17 @@ I sistemi di raccomandazione (_recommender systems_ o _recommender engines_ in i
 L'uso esteso di questi sistemi ha contribuito in modo determinante all'affermarsi del fenomeno noto come delle " bolle di informazione"[[1]](#1).
 Infatti, la sempre più massiccia presenza delle persone sui social network, e la loro tendenza ad informarsi tramite questi canali ha prodotto importanti effetti sociali e politici, come si mostra ad esempio in [[2]](#2) o [[3]](#3).
 
-Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti[[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
+Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti [[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
 
 Ovviamente, non ci sono solo conseguenze negative dell'uso di questi sistemi. 
 Molte aziende hanno potuto publicizzarsi online in maniera più efficace (essendo le pubblicità mirate agli utenti "giusti") e contemporaneamente l'utente medio durante la sua presenza online ha potuto vedere solo prodotti di suo interesse.
 
-Sono in corso studi sulla possibilità di costruire terapie personalizzate per ogni paziente, con risultati promettenti[[7]](#7).
+Sono in corso studi sulla possibilità di costruire terapie personalizzate per ogni paziente, con risultati decisamente promettenti [[7]](#7).
+
+In conclusione, i recommender systems sono probabilmente tra le applicazioni del machine learning il cui studio è più utile non solo al professionista, ma anche al semplice cittadino, data la loro enorme influenza nel plasmare la società odierna.
+Per queste ragioni, comprendere e studiare il funzionamento di questi sistemi è importante ed interessante.
+
+Rimandiamo ai vari moduli e all'indice delle lezioni (si veda più in basso) per dettagli puntuali, nel frattempo, vi _raccomandiamo_ buon apprendimento e buon lavoro!
 
 ---
 
