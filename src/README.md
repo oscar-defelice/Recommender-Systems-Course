@@ -1,13 +1,13 @@
-# Indice delle lezioni
+# Lecture Content
 
-Qui raccogliamo l'indice delle lezioni per il corso di Recommender Systems.
+Here we collect the content of lectures for the Recommender Systems course.
 
 ## 1. Filters and users vectors
 
-Vedremo come definire i vettori di _item_ e _user_, il loro significato geometrico, e definiremo il concetto di metriche di distanza, mettendo in pratica qualche esempio.
+We are going to define _item_ and _user_ vectors, their geometrical meaning, etc. We will define _distance metrics_, also by implementing some examples of those.
 
-Infine, costruiremo il più semplice modello di raccomandazione possibile: raccomandare l'item più _popolare_.
+Finally, we will build the simplest recommendation model possible: the most popular recommendation.
 
 ## 2. KNN-based recommendations
 
-In questa lezione costruiremo un modello basato sulla distanza tra oggetti. Prima in modalità non-personalizata e successivamente, attibuendo un punteggio di preferenza tra utenti ed oggetti in modelità personalizata.
+In this lecture, we will implement a distance-based model. First, we put ourself in the non-personalised mode, after that we try to assign a _ranking score_ to user-item preference in order to encode the personalised ranking.
