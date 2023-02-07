@@ -2,85 +2,85 @@
 
 # Recommender Systems
 
-Questo è il repository del corso Recommender Systems.
+This is the repository for the Recommender Systems course.
 
 <p align="center">
   <img width="776" alt="image" src="https://user-images.githubusercontent.com/49638680/204351915-373011d3-75ac-4e21-a6df-99cd1c552f2c.png">
 </p>
 
-## Introduzione
+## Introduction
 
-I sistemi di raccomandazione (_recommender systems_ o _recommender engines_ in inglese) sono un insieme di algoritmi che hanno in comune l'idea di _suggerire_ ad un utente un "prodotto".
+Recommender systems or _recommender engines_ are a set of algorithms that have in common the idea of _suggesting_ a "product" to a user.
 
-È difficile stabilire quando quest'idea antichissima è stata trasferita all'ambito informatico, ma sappiamo che ha profondamente cambiato il nostro modo di rapportarci al mondo digitale. Basti pensare a Google, ad Amazon, Netflix, YouTube, etc., tutte queste compagnie fondano i loro successi su particolari sistemi di raccomandazione particolarmente efficienti.
+It is difficult to determine when this ancient idea was transferred to the IT field, but we know that it has profoundly changed the way we relate to the digital world. Just think of Google, Amazon, Netflix, YouTube, etc., all of these companies base their successes on particular recommendation systems that are particularly efficient.
 
-L'uso esteso di questi sistemi ha contribuito in modo determinante all'affermarsi del fenomeno noto come delle " bolle di informazione"[[1]](#1).
-Infatti, la sempre più massiccia presenza delle persone sui social network, e la loro tendenza ad informarsi tramite questi canali ha prodotto importanti effetti sociali e politici, come si mostra ad esempio in [[2]](#2) o [[3]](#3).
+The extensive use of these systems has contributed greatly to the emergence of the phenomenon known as the " information bubbles"[[1]](#1).
+Indeed, the increasing presence of people on social networks and their tendency to inform themselves through these channels has produced important social and political effects, as shown for example in [[2]](#2) or [[3]](#3).
 
-Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti [[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
+Other problems with the use of recommender systems have emerged when it has been found that these systems can lead to increased levels of anxiety and depression in predisposed individuals [[4]](#4) and generally ruin the online experience, or how they make it much easier for fake news [[5]](#5) and conspiracy theories [[6]](#6) to spread.
 
-Ovviamente, non ci sono solo conseguenze negative dell'uso di questi sistemi. 
-Molte aziende hanno potuto publicizzarsi online in maniera più efficace (essendo le pubblicità mirate agli utenti "giusti") e contemporaneamente l'utente medio durante la sua presenza online ha potuto vedere solo prodotti di suo interesse.
+Of course, there are not only negative consequences of using these systems. 
+Many companies have been able to publicize themselves online more effectively (the advertisements being targeted to the "right" users) and at the same time the average user during his online presence has been able to see only products of his interest.
 
-Sono in corso studi sulla possibilità di costruire terapie personalizzate per ogni paziente, con risultati decisamente promettenti [[7]](#7).
+Studies are underway on the possibility of building personalized therapies for each patient, with definitely promising results [[7]](#7).
 
-In conclusione, i recommender systems sono probabilmente tra le applicazioni del machine learning il cui studio è più utile non solo al professionista, ma anche al semplice cittadino, data la loro enorme influenza nel plasmare la società odierna.
-Per queste ragioni, comprendere e studiare il funzionamento di questi sistemi è importante ed interessante.
+In conclusion, recommender systems are probably among the applications of machine learning whose study is most useful not only to the professional but also to the ordinary citizen, given their enormous influence in shaping today's society.
+For these reasons, understanding and studying how these systems work is important and interesting.
 
-Rimandiamo ai vari moduli e all'indice delle lezioni (si veda più in basso) per dettagli puntuali, nel frattempo, vi _raccomandiamo_ buon apprendimento e buon lavoro!
+We refer you to the various modules and the lecture index (see below) for timely details; in the meantime, we _recommend_ good learning and good work!
 
 ---
 
-## Installazione
+## Installation
 
-Consiglio fortemente di creare un ambiente virtuale per isolare le dipendenze dei pacchetti.
-A seconda del sistema operativo esistono varie guide e tutorial su come fare. [Qui](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) ne indico una multipiattaforma.
+I strongly recommend creating a virtual environment to isolate package dependencies.
+Depending on the operating system, there are various guides and tutorials on how to do this. [Here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) I point to a cross-platform one.
 
-La versione di Python consigliata è la `3.7` (o superiore).
+The recommended version of Python is `3.7` (or higher).
 
-Una volta configurato il proprio ambiente, nel vostro prompt di comandi preferito, eseguire
+Once you have set up your environment, at your favorite command prompt, run
 
 ```bash
 pip install -r requirements.txt
 ```
 
-questo installera i pacchetti e le librerie necessarie al corso nelle versioni opportune.
+this will install the packages and libraries needed for the course in the appropriate versions.
 
-## Interagire con i notebook online
+## Interacting with online notebooks.
 
-Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configurato ed eseguire i notebook. Basta cliccare sul badge qui sotto per avviare l'ambiente.
+The free _Binder_ service, allows you to access an already configured environment and run notebooks. Just click on the badge below to start the environment.
 
 <p align="center">
 <a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Recommender-Systems-Course/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
-## Indice delle lezioni
+## Table of Contents of lectures.
 
-[Qui](lectures/README.md) puoi trovare un indice più dettagliato dei vari moduli.
+[Here](lectures/README.md) you can find a more detailed index of the various modules.
 
 ---
 
-## Docente
+## Your lecturer
 
 ### [Oscar de Felice](https://oscar-defelice.github.io/)
 
 <a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
 
-Sono un fisico teorico e appassionato di programmazione e IA.
+I am a theoretical physicist and programming and AI enthusiast.
 
-Scrivo articoli su Medium (molto poco sistematicamente), puoi leggerli [qui](https://oscar-defelice.medium.com/).
-Ho anche un [profilo github](https://github.com/oscar-defelice) dove metto i miei progetti personali ed open-source.
+I write articles on Medium (very unsystematically), you can read them [here](https://oscar-defelice.medium.com/).
+I also have a [github profile](https://github.com/oscar-defelice) where I put my personal and open-source projects.
 
-📫 [Contattami!](mailto:oscar.defelice@gmail.com)
+📫 [Contact me!](mailto:oscar.defelice@gmail.com)
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/oscar-defelice)
 [![Website](https://img.shields.io/badge/oscar--defelice-oscar-orange?style=plastic&logo=netlify&logoColor=informational&link=oscar-defelice.github.io)](https://oscar-defelice.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/)
 
-## Altri corsi
+## Other courses
 
-Qui puoi trovare i materiali di altri miei corsi su argomenti di Machine Learning.
+Here you can find more material about other lectures and courses on Machine Learning topics.
 
 1. [Introduction to Data Science](https://oscar-defelice.github.io/DSAcademy-lectures) 🧮
 2. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
@@ -88,7 +88,7 @@ Qui puoi trovare i materiali di altri miei corsi su argomenti di Machine Learnin
 4. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
 5. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 👀️
 
-## Referenze
+## References
 
 <a id="1">[1]</a> 
 Van Alstyne, Marshall; Brynjolfsson, Erik (March 1997).
