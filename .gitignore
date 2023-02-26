@@ -6,3 +6,6 @@
 # Notebook and python auxiliary files
 .ipynb_checkpoints
 __pycache__
+
+# data folders
+data
