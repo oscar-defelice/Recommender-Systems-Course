@@ -19,7 +19,7 @@ Infatti, la sempre più massiccia presenza delle persone sui social network, e l
 
 Altre problematiche nell'uso dei recommender systems sono emerse quando si è constatato come questi sistemi possano portare ad aumentare i livelli di ansia e depressione in soggetti predisposti [[4]](#4) e rovinare in generale l'esperienza online, oppure come rendano molto più semplice il diffondersi di notizie false [[5]](#5) e teorie cospiratorie [[6]](#6).
 
-Ovviamente, non ci sono solo conseguenze negative dell'uso di questi sistemi. 
+Ovviamente, non ci sono solo conseguenze negative dell'uso di questi sistemi.
 Molte aziende hanno potuto publicizzarsi online in maniera più efficace (essendo le pubblicità mirate agli utenti "giusti") e contemporaneamente l'utente medio durante la sua presenza online ha potuto vedere solo prodotti di suo interesse.
 
 Sono in corso studi sulla possibilità di costruire terapie personalizzate per ogni paziente, con risultati decisamente promettenti [[7]](#7).
@@ -56,7 +56,7 @@ Il servizio gratuito _Binder_, permette di accedere ad un ambiente già configur
 
 ## Indice delle lezioni
 
-[Qui](lectures/README.md) puoi trovare un indice più dettagliato dei vari moduli.
+[Qui](src/README.md) puoi trovare un indice più dettagliato dei vari moduli.
 
 ---
 
@@ -90,30 +90,30 @@ Qui puoi trovare i materiali di altri miei corsi su argomenti di Machine Learnin
 
 ## Referenze
 
-<a id="1">[1]</a> 
+<a id="1">[1]</a>
 Van Alstyne, Marshall; Brynjolfsson, Erik (March 1997).
 ["Electronic Communities: Global Village or Cyberbalkans?"](http://web.mit.edu/marshall/www/papers/CyberBalkans.pdf)
 
-<a id="2">[2]</a> 
+<a id="2">[2]</a>
 Hern (2017).
 ["How social media filter bubbles and algorithms influence the election"](https://www.theguardian.com/technology/2017/may/22/social-media-election-facebook-filter-bubbles)
 
-<a id="3">[3]</a> 
+<a id="3">[3]</a>
 Baer, Drake (2017).
 ["The ‘Filter Bubble’ Explains Why Trump Won and You Didn’t See It Coming"](http://nymag.com/scienceofus/2016/11/how-facebook-and-the-filter-bubble-pushed-trump-to-victory.html)
 
-<a id="4">[4]</a> 
+<a id="4">[4]</a>
 Lazar, Shira (June 1, 2011).
 ["Algorithms and the Filter Bubble Ruining Your Online Experience?"](http://www.huffingtonpost.com/shira-lazar/algorithms-and-the-filter_b_869473.html)
 
-<a id="5">[5]</a> 
+<a id="5">[5]</a>
 Meredith, Sam (10 April 2018).
 ["Facebook-Cambridge Analytica: A timeline of the data hijacking scandal"](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
 
-<a id="6">[6]</a> 
+<a id="6">[6]</a>
 Catalina Albeanu (17 November 2016).
 ["Bursting the filter bubble after the US election: Is the media doomed to fail?"](https://www.journalism.co.uk/news/bursting-the-filter-bubble-after-the-us-election/s2/a692918/)
 
-<a id="7">[7]</a> 
+<a id="7">[7]</a>
 Felix Gräßer, Stefanie Beckert, Denise Küster, Jochen Schmitt, Susanne Abraham, Hagen Malberg, and Sebastian Zaunseder (2017).
 ["Therapy Decision Support Based on Recommender System Methods"](https://www.hindawi.com/journals/jhe/2017/8659460/)

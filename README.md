@@ -19,7 +19,7 @@ Indeed, the increasing presence of people on social networks and their tendency 
 
 Other problems with the use of recommender systems have emerged when it has been found that these systems can lead to increased levels of anxiety and depression in predisposed individuals [[4]](#4) and generally ruin the online experience, or how they make it much easier for fake news [[5]](#5) and conspiracy theories [[6]](#6) to spread.
 
-Of course, there are not only negative consequences of using these systems. 
+Of course, there are not only negative consequences of using these systems.
 Many companies have been able to publicize themselves online more effectively (the advertisements being targeted to the "right" users) and at the same time the average user during his online presence has been able to see only products of his interest.
 
 Studies are underway on the possibility of building personalized therapies for each patient, with definitely promising results [[7]](#7).
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 this will install the packages and libraries needed for the course in the appropriate versions.
 
-## Interacting with online notebooks.
+## Interacting with online notebooks
 
 The free _Binder_ service, allows you to access an already configured environment and run notebooks. Just click on the badge below to start the environment.
 
@@ -54,9 +54,9 @@ The free _Binder_ service, allows you to access an already configured environmen
 <a href = "https://mybinder.org/v2/gh/DeepLearningItalia/Recommender-Systems-Course/HEAD?urlpath=lab" target="_blank"> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
-## Table of Contents of lectures.
+## Table of Contents of lectures
 
-[Here](lectures/README.md) you can find a more detailed index of the various modules.
+[Here](src/README.md) you can find a more detailed index of the various modules.
 
 ---
 
@@ -90,30 +90,30 @@ Here you can find more material about other lectures and courses on Machine Lear
 
 ## References
 
-<a id="1">[1]</a> 
+<a id="1">[1]</a>
 Van Alstyne, Marshall; Brynjolfsson, Erik (March 1997).
 ["Electronic Communities: Global Village or Cyberbalkans?"](http://web.mit.edu/marshall/www/papers/CyberBalkans.pdf)
 
-<a id="2">[2]</a> 
+<a id="2">[2]</a>
 Hern (2017).
 ["How social media filter bubbles and algorithms influence the election"](https://www.theguardian.com/technology/2017/may/22/social-media-election-facebook-filter-bubbles)
 
-<a id="3">[3]</a> 
+<a id="3">[3]</a>
 Baer, Drake (2017).
 ["The ‘Filter Bubble’ Explains Why Trump Won and You Didn’t See It Coming"](http://nymag.com/scienceofus/2016/11/how-facebook-and-the-filter-bubble-pushed-trump-to-victory.html)
 
-<a id="4">[4]</a> 
+<a id="4">[4]</a>
 Lazar, Shira (June 1, 2011).
 ["Algorithms and the Filter Bubble Ruining Your Online Experience?"](http://www.huffingtonpost.com/shira-lazar/algorithms-and-the-filter_b_869473.html)
 
-<a id="5">[5]</a> 
+<a id="5">[5]</a>
 Meredith, Sam (10 April 2018).
 ["Facebook-Cambridge Analytica: A timeline of the data hijacking scandal"](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
 
-<a id="6">[6]</a> 
+<a id="6">[6]</a>
 Catalina Albeanu (17 November 2016).
 ["Bursting the filter bubble after the US election: Is the media doomed to fail?"](https://www.journalism.co.uk/news/bursting-the-filter-bubble-after-the-us-election/s2/a692918/)
 
-<a id="7">[7]</a> 
+<a id="7">[7]</a>
 Felix Gräßer, Stefanie Beckert, Denise Küster, Jochen Schmitt, Susanne Abraham, Hagen Malberg, and Sebastian Zaunseder (2017).
 ["Therapy Decision Support Based on Recommender System Methods"](https://www.hindawi.com/journals/jhe/2017/8659460/)
