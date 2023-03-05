@@ -2,6 +2,7 @@
 .DS_Store
 .AppleDouble
 .Trashes
+.vscode
 
 # Notebook and python auxiliary files
 .ipynb_checkpoints
