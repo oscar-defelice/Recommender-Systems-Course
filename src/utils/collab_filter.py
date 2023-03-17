@@ -30,6 +30,24 @@ def normalizeRatings(Y: np.ndarray, R: np.ndarray) -> Tuple:
     return (Ynorm, Ymean)
 
 
+def minmaxNormalise(Y: np.ndarray) -> Tuple:
+    """Preprocess data by normalising rating for every movie (every row).
+    It rescale ratings in the range [0,1]
+
+    Parameters
+    ----------
+    Y : np.ndarray
+        The rating array to normalise.
+
+    Returns
+    -------
+    Tuple
+        The normalised array of ratings and the max rating.
+    """
+    Y_scaled = Y / Y.max()
+    return Y_scaled, Y.max()
+
+
 def load_precalc_params_small() -> Tuple:
     file = open("../data/small_movies_X.csv", "rb")
     X = np.loadtxt(file, delimiter=",")
