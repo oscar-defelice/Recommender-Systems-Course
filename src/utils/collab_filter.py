@@ -3,7 +3,7 @@ import pandas as pd
 from typing import Tuple
 
 
-def normalizeRatings(Y: np.ndarray, R: np.ndarray) -> Tuple:
+def normalizeRatings(Y: np.ndarray, R: np.ndarray, axis: int = 1) -> Tuple:
     """
     Preprocess data by subtracting mean rating for every movie (every row).
     Only include real ratings: R(i,j)=1.
@@ -18,6 +18,8 @@ def normalizeRatings(Y: np.ndarray, R: np.ndarray) -> Tuple:
         The rating array to normalise.
     R : np.ndarray
         The array indicating whether a user rated a movie.
+    axis : int
+        The numpy axis to use for taking the average rating.
 
     Returns
     -------
@@ -25,8 +27,13 @@ def normalizeRatings(Y: np.ndarray, R: np.ndarray) -> Tuple:
         The normalised array of ratings and the mean rating.
 
     """
-    Ymean = (np.sum(Y * R, axis=1) / (np.sum(R, axis=1) + 1e-12)).reshape(-1, 1)
-    Ynorm = Y - np.multiply(Ymean, R)
+    Ymean = (np.sum(Y * R, axis=axis) / (np.sum(R, axis=axis) + 1e-12)).reshape(-1, 1)
+
+    if axis == 0:
+        Ynorm = Y.T - np.multiply(Ymean, R.T)
+    else:
+        Y_norm = Y - np.multiply(Y_mean, R)
+
     return (Ynorm, Ymean)
 
 
