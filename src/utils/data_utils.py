@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+
 def load_data():
     df_rating = pd.read_csv(
         "http://files.grouplens.org/datasets/movielens/ml-100k/u1.base",
@@ -58,7 +59,6 @@ def load_data():
         "Western",
     ]
     df_items.set_index("MovieId", inplace=True)
-
 
     # Pivot rating table in order to get rating matrix
     df_matrix = df_rating.pivot(index="MovieId", columns="UserId", values="Rating")

@@ -5,6 +5,7 @@ Examples
 print(Colours.RED + "This message will appear in red." + Colours.ENDC)
 """
 
+
 class Colour:
     RED = "\033[31m"
     GREEN = "\033[32m"

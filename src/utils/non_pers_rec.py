@@ -1,6 +1,6 @@
 """Module to collect functions and objects for non-personalised recommendations lectures."""
 import pandas as pd
-import logging 
+import logging
 
 from typing import List
 
@@ -67,7 +67,9 @@ df_items.set_index("MovieId", inplace=True)
 
 genre_cols = df_items.columns[7:]
 
-genre_series = df_items[genre_cols].apply(lambda row: row[row == 1].index.tolist(), axis=1)
+genre_series = df_items[genre_cols].apply(
+    lambda row: row[row == 1].index.tolist(), axis=1
+)
 
 
 def recommend_one():
@@ -114,7 +116,11 @@ def get_recent_liked_movie(user_id: int, threshold: float = 4.0) -> int:
 
     # if there is no movie the user has liked then recommend the most popular movies.
     if usr_liked_movies.empty:
-        logger.warning(Colour.RED + f"The user has not liked any movie above {threshold}" + Colour.ENDC)
+        logger.warning(
+            Colour.RED
+            + f"The user has not liked any movie above {threshold}"
+            + Colour.ENDC
+        )
         return recommend_n()
 
     # Calculate the max timestamp, to get the last appreciated movies.
