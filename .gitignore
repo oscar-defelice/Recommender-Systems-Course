@@ -13,3 +13,6 @@ data
 
 # models files
 models
+
+# logs files
+logs
