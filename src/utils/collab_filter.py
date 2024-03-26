@@ -32,7 +32,7 @@ def normalizeRatings(Y: np.ndarray, R: np.ndarray, axis: int = 1) -> Tuple:
     if axis == 0:
         Ynorm = Y.T - np.multiply(Ymean, R.T)
     else:
-        Y_norm = Y - np.multiply(Y_mean, R)
+        Ynorm = Y - np.multiply(Ymean, R)
 
     return (Ynorm, Ymean)
 
