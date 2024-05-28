@@ -1,9 +1,10 @@
 """ Utilities for RecSysNN implementation """
+
 from collections import defaultdict
 import csv
 import numpy as np
 
-import pickle5 as pickle
+import pickle
 
 import tabulate
 
