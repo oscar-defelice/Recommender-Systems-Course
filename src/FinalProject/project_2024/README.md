@@ -26,7 +26,7 @@ You can use the following datasets:
    - Implement a recommender system algorithm (e.g., matrix factorization) to predict the rating of a movie by a couple of users.
 
 4. **Recommendation Algorithm**
-   - Develop an algorithm to suggest movie pairs that complement each other. You can use the criteria
+   - Develop an algorithm to suggest one movie that might be liked by the couple of users. You can use the criteria you prefer to create a "couple score" for each movie and then sort the movies by the score.
 
 5. **Evaluation**
    - Split the data into training and testing sets.
